@@ -1,0 +1,26 @@
+#box1 {
+    position: absolute;
+    background-color: aqua;
+    width:25%;
+}
+
+#box2 {
+    position: absolute;
+    left: 25%;
+    background-color: blueviolet;
+    width:25%;
+}
+
+#box3 {
+    position: absolute;
+    left: 50%;
+    background-color: brown;
+    width:25%;
+}
+
+#box4 {
+    position: absolute;
+    left: 75%;
+    background-color: orange;
+    width:25%;
+}
